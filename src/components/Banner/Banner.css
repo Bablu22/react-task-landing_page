@@ -1,0 +1,30 @@
+.banner{
+    background: linear-gradient(244.54deg, rgba(0, 153, 255, 0.42) 5.48%, rgba(110, 76, 255, 0.755) 62.63%, #DB00FF 109.63%);
+}
+.banner-container{
+    padding: 100px 20px;
+}
+.my-btn{
+    border: 2px solid white;
+    padding: 8px 20px;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+.why-choose{
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 90%;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+}
+.why-btn{
+    padding: 8px 20px;
+    border: 2px solid black;
+    font-weight: bold;    
+    display: block;
+    margin-top: 30px;
+    border-radius: 50px;
+
+}

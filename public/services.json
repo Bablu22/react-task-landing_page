@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Finance and Insurance",
+    "img": "https://i.ibb.co/ryJk6pr/hand.png"
+  },
+  {
+    "id": 2,
+    "name": "Healthcare",
+    "img": "https://i.ibb.co/CJPszmr/healthcare.png"
+  },
+  {
+    "id": 3,
+    "name": "Construction",
+    "img": "https://i.ibb.co/rtQPkhp/distribution-center.png"
+  },
+  {
+    "id": 4,
+    "name": "Wholesale and retail",
+    "img": "https://i.ibb.co/qNJFFfV/support.png"
+  },
+  {
+    "id": 5,
+    "name": "Education",
+    "img": "https://i.ibb.co/tKz7gGr/student.png"
+  },
+  {
+    "id": 6,
+    "name": "Energy and resources",
+    "img": "https://i.ibb.co/ZmzDN53/natural-resources.png"
+  },
+  {
+    "id": 7,
+    "name": "Entertainment",
+    "img": "https://i.ibb.co/3Nj0NY2/theater.png"
+  },
+  {
+    "id": 8,
+    "name": "Transportation",
+    "img": "https://i.ibb.co/RhfPw8x/bus.png"
+  }
+]
